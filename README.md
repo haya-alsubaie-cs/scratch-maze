@@ -23,7 +23,7 @@ UK KS2 Computing Curriculum:
 
 ## How to Play
 Use arrow keys to move the sprite.
-Avoid black walls.
+Avoid red walls.
 Reach the red finish area to win.
 
 ## Scratch Project Link
